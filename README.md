@@ -4,4 +4,5 @@
 3. python snake.py
 4. Play!
 
-<img width="571" alt="snake-image" src="https://user-images.githubusercontent.com/34493689/46250000-773abd00-c3e7-11e8-812d-e8841c3fec3b.png">
+![screen shot 2018-10-16 at 6 15 07 pm](https://user-images.githubusercontent.com/34493689/47056056-73d95c80-d16f-11e8-90a4-ef5b2d8a7140.png)
+
