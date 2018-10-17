@@ -4,5 +4,4 @@
 3. python snake.py
 4. Play!
 
-![screen shot 2018-10-16 at 6 15 07 pm](https://user-images.githubusercontent.com/34493689/47056056-73d95c80-d16f-11e8-90a4-ef5b2d8a7140.png)
-
+<img width="400" alt="screen shot 2018-10-16 at 6 15 07 pm" src="https://user-images.githubusercontent.com/34493689/47056096-9a979300-d16f-11e8-9d3e-77176fb16a5f.png">
